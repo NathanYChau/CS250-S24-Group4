@@ -3,3 +3,4 @@
 Group Assignment Contract
 
 Nathan CHau
+Jimin Li
