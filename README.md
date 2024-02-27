@@ -2,6 +2,6 @@
 
 Group Assignment Contract
 
-Nathan CHau
+Nathan Chau
 
 Jimin Li
